@@ -1,5 +1,5 @@
 function switchCase(letter) {
-    // Only change code below this line
+    // write code below this line
     var animals;
 
     switch (letter) {
@@ -16,7 +16,7 @@ function switchCase(letter) {
             animals = "stuff";
             break;
     }
-    // Only change code above this line
+    // Write code above this line
     return animals;
 }
 
