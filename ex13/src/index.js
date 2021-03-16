@@ -12,8 +12,8 @@ function inverseWhile() {
    }
    return fiveNumbers;
 }
-// Only change code above this line
 
 console.log(inverseWhile());
+// Only change code above this line
 
 module.exports = inverseWhile;
