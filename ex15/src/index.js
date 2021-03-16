@@ -12,9 +12,9 @@ function myDoWhile() {
     } while(i < 10); 
     return myNumbers;
  }
- // Only change code above this line
+
+console.log(myDoWhile());
+// Only change code above this line
  
- console.log(myDoWhile());
- 
- module.exports = myDoWhile;
+module.exports = myDoWhile;
  
